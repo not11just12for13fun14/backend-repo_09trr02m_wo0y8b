@@ -1,7 +1,33 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [99] using StatReload
-INFO:     Started server process [101]
+INFO:     Started reloader process [179] using StatReload
+INFO:     Started server process [181]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:52208 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:52804 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52788 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52788 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52804 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52818 - "GET /media-plan HTTP/1.1" 200 OK
+INFO:     172.20.0.1:52804 - "GET /media-plan HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39878 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:54004 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54014 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54030 - "GET /media-plan HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54004 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54014 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54030 - "GET /media-plan HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54214 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54214 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /media-plan HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54214 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /media-plan HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54214 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54214 - "GET /actions HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54206 - "GET /campaigns HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54214 - "GET /actions HTTP/1.1" 200 OK
